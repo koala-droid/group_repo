@@ -32,10 +32,10 @@ __As a site visitor, I want to know what the web page is called__
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `title`.
-1. The new branch was pushed to the shared repository
-1. A pull request was made to `master` & reviewed by the team
-1. Changes were merged to `master`
+1. This user story was developed locally by Yulia on a brach called `title`.
+2. The new branch was pushed to the shared repository
+3. A pull request was made to `master` & reviewed by the team
+4. Changes were merged to `master`
 
 ### HTML
 
