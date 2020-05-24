@@ -57,7 +57,7 @@ __As a site visitor, I want to read an introduction to this web page__
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `introduction`.
+1. This user story was developed locally by __ on a brach called `section`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
@@ -69,7 +69,7 @@ __As a site visitor, I want to read an introduction to this web page__
 
 ### CSS
 
-Styling for the new element
+Styling for the section
 
 ---
 
